@@ -1,0 +1,1 @@
+This project involves the development of a data warehouse and star schema to manage and analyze the donation data collected during a pet rescue organization’s annual fundraising campaign. The data was sourced from six CSV files, cleansed, and imported into SQL to generate actionable insights through SQL queries, helping optimize the organization's fundraising strategies.
